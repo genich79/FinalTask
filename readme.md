@@ -24,7 +24,7 @@ __Примеры:__
 
 ## __Блок-схема:__
 
-![](https://github.com/genich79/ControlTask/blob/833b07579e70f75d08b682d8d87daaffa77502d8/Diagram/Array2.jpg)
+![](https://github.com/genich79/FinalTask/blob/2d53ea1bae98d8e8e28ae9b924d05bed798a7038/diagram/diagram.jpg)
 
 ## Программа:
 
